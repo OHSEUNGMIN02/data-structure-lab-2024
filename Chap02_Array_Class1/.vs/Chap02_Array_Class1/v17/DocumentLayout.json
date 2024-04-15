@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|solutionrelative:Chap02_Array\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|solutionrelative:Chap02_Array\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\SmartHome.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|solutionrelative:Chap02_Array\\SmartHome.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|solutionrelative:Chap02_Array\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|solutionrelative:Chap02_Array\\complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|solutionrelative:Chap02_Array\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{394C25E2-DFD2-4EC4-863C-48166C50627B}|Chap02_Array\\Chap02_Array.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SportsCar.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\SportsCar.h",
               "RelativeDocumentMoniker": "Chap02_Array\\SportsCar.h",
@@ -43,12 +51,37 @@
               "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-08T03:08:22.973Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Music.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\Music.h",
+              "RelativeDocumentMoniker": "Chap02_Array\\Music.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\Music.h",
+              "RelativeToolTip": "Chap02_Array\\Music.h",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T02:34:50.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "SmartHome.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\SmartHome.h",
+              "RelativeDocumentMoniker": "Chap02_Array\\SmartHome.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\SmartHome.h",
+              "RelativeToolTip": "Chap02_Array\\SmartHome.h",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T02:14:02.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Rectangle.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\Rectangle.h",
               "RelativeDocumentMoniker": "Chap02_Array\\Rectangle.h",
@@ -56,25 +89,24 @@
               "RelativeToolTip": "Chap02_Array\\Rectangle.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-08T03:34:05.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:34:05.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\main.cpp",
               "RelativeDocumentMoniker": "Chap02_Array\\main.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\main.cpp",
               "RelativeToolTip": "Chap02_Array\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABLAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-08T02:36:13.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Car.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\Car.h",
               "RelativeDocumentMoniker": "Chap02_Array\\Car.h",
@@ -87,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "complex.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2024\\Chap02_Array_Class1\\Chap02_Array\\complex.h",
               "RelativeDocumentMoniker": "Chap02_Array\\complex.h",
@@ -95,8 +127,7 @@
               "RelativeToolTip": "Chap02_Array\\complex.h",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-03T02:37:50.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T02:37:50.167Z"
             }
           ]
         }
